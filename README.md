@@ -5,11 +5,6 @@ A web-based Price List Builder for small businesses to add products, manage pric
 
 🔗 https://productprice-list.netlify.app/
 
-📌 Overview
-
-A web-based Price List Builder designed for small businesses to create and manage product catalogs efficiently.
-
-Users can add products, calculate GST-inclusive pricing, upload images, filter by categories, and export a clean, printable price list (PDF-ready).
 
 🖼️ Screenshots
 
