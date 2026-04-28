@@ -43,6 +43,8 @@ Users can add products, calculate GST-inclusive pricing, upload images, filter b
 🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript
+
 Storage: Browser LocalStorage
+
 Deployment: Netlify
 
