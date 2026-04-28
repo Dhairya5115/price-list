@@ -14,13 +14,35 @@ Users can add products, calculate GST-inclusive pricing, upload images, filter b
 🖼️ Screenshots
 
 🔹 Main Interface
-
+<p align="center">
+  <img src="./screenshots/main-ui.png" width="700"/>
+</p>
 
 
 🔹 Add Product
-
+<p align="center">
+  <img src="./screenshots/add-product.png" width="700"/>
+</p>
 
 
 🔹 Price List Output
+<p align="center">
+  <img src="./screenshots/price-list.png" width="700"/>
+</p>
 
+✨ Features
+
+📌 Add, edit, and delete products
+💰 Automatic GST calculation
+🗂️ Category-based filtering
+🖼️ Image upload with preview
+💾 Local storage persistence
+📄 Export to printable price list (PDF)
+🎨 Clean and responsive UI
+
+🛠️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+Storage: Browser LocalStorage
+Deployment: Netlify
 
